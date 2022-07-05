@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "cypress": "6.2.1",
-    "lambdatest-cypress-cli": "2.3.0",
+    "lambdatest-cypress-cli": "*",
     "typescript": "3.7.4"
   }
 }
